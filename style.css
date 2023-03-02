@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(153, 198, 238);
+}
+
+h2 {
+    text-align: center;
+}
+
+.div1 {
+    text-align: center;
+}
+
+img {
+
+    width: 20px;
+    height: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
